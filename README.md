@@ -7,6 +7,6 @@ Trying out OpenAI's Agents API with Modal Sandbox as the sandbox provider.
 ## Reference
 
 * [OpenAI Agents API: Modal](https://developers.openai.com/api/docs/guides/agents-api/environments/providers/modal)
-* [OpenAI Agents API Self-hosted sandbox examples[(https://github.com/openai/openai-cookbook/tree/main/examples/agents_api/sandboxes)
+* [OpenAI Agents API Self-hosted sandbox examples](https://github.com/openai/openai-cookbook/tree/main/examples/agents_api/sandboxes)
 
 
